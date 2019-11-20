@@ -11,4 +11,4 @@
 - learn how make an API using laravel LightHouse graphql and connecting to it from Vue js
 
 [GitHub](https://github.com/Mohamed-SM/Laravel_Forum_With_Vuejs)
-[Getting Started](#laravel-forum-with-vuejs)
+[Getting Started](README)
