@@ -124,5 +124,6 @@
     <orderEntry type="library" name="docsify" level="application" />
     <orderEntry type="library" name="count" level="application" />
     <orderEntry type="library" name="search" level="application" />
+    <orderEntry type="library" name="index" level="application" />
   </component>
 </module>
