@@ -55,5 +55,5 @@ Laravel development server started: http://127.0.0.1:8000
  now all you have to do is open the address `http://127.0.0.1:8000` in the browser and that is proudly your first
  Laravel website, it should look like this
  
- ![Laravel Screen shot](/_media/Screenshot%20from%202019-11-21%2002-00-49.png)
+ ![Laravel Screen shot](../_media/Screenshot%20from%202019-11-21%2002-00-49.png)
 
