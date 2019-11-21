@@ -122,5 +122,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="docsify" level="application" />
+    <orderEntry type="library" name="count" level="application" />
   </component>
 </module>
