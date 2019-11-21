@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffef3b3c-9c21-4ac7-8a09-c0eb1397682b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/prerequisites/3-the-laravel-Installer.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/prerequisites/3-the-laravel-Installer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -198,7 +198,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574258250907</updated>
       <workItem from="1574258252192" duration="2091000" />
-      <workItem from="1574260419683" duration="27012000" />
+      <workItem from="1574260419683" duration="27643000" />
     </task>
     <servers />
   </component>
