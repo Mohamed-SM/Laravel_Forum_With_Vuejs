@@ -43,8 +43,8 @@ laravel new forum
 <div id="disqus_thread"></div>
 <script>
 var disqus_config = function () {
-    this.page.url = "http://localhost:3000/#/prerequisites/3-the-laravel-Installer";
-    this.page.identifier = "PAGE_IDENTIFIER";
+    this.page.url = "https://mohamed-sm.github.io/Laravel_Forum_With_Vuejs/#/prerequisites/3-the-laravel-Installer";
+    this.page.identifier = "prerequisites/3-the-laravel-Installer";
 };
 (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
