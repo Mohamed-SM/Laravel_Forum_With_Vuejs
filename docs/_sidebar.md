@@ -1,7 +1,8 @@
 <!-- docs/_sidebar.md -->
 
 - Introduction
-    - [About Laravel (Official description)](/README.md)
+    - [Introduction](/README.md)
+    - [About Laravel (Official description)](/laravel_official_readme.md)
     
 - Prerequisites
     - [1 How laravel works](prerequisites/1-how-laravel-works.md)
