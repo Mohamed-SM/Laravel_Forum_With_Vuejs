@@ -37,3 +37,23 @@ laravel new forum
 ```
 > replace the word forum with the project name if you want a different name
 
+## Starting the development Server
+
+now to lunch our website locally
+
+ ```bash
+cd forum
+php artisan serve
+```
+
+that should give the following output
+ ```bash
+$ php artisan serve
+Laravel development server started: http://127.0.0.1:8000
+ ```
+ 
+ now all you have to do is open the address `http://127.0.0.1:8000` in the browser and that is proudly your first
+ Laravel website, it should look like this
+ 
+ ![Laravel Screen shot](../../_media/Screenshot%20from%202019-11-21%2002-00-49.png)
+
