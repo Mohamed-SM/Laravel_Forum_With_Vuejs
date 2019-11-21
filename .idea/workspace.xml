@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffef3b3c-9c21-4ac7-8a09-c0eb1397682b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_coverpage.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_coverpage.md" afterDir="false" />
-    </list>
+    <list default="true" id="ffef3b3c-9c21-4ac7-8a09-c0eb1397682b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +154,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/_media" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/.well-known" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Markdown" />
   </component>
@@ -201,7 +198,7 @@
       <updated>1574258250907</updated>
       <workItem from="1574258252192" duration="2091000" />
       <workItem from="1574260419683" duration="27643000" />
-      <workItem from="1574299169141" duration="1574000" />
+      <workItem from="1574299169141" duration="1892000" />
     </task>
     <servers />
   </component>
