@@ -1,14 +1,12 @@
-![logo](_media/logo.png)
+<img src="_media/icon-192.png" alt="" style="border-radius: 50%;"/> 
 
 
 
 # Laravel Forum with vuejs and graphql <small></small>
 
-> [Web Developpent tuturial by UTC](https://utc-dz.com).
+> by [UTC](https://utc-dz.com).
 
-- Learn all the basics of laravel from scratch
-- learn how to make single page application with Vue js
-- learn how make an API using laravel LightHouse graphql and connecting to it from Vue js
+- Learn all the basics of laravel and Vue js from scratch 
 
 [GitHub](https://github.com/Mohamed-SM/Laravel_Forum_With_Vuejs)
 [Getting Started](README)
