@@ -1,7 +1,7 @@
 # Laravel Forum With Vuejs
 [Documentation](https://mohamed-sm.github.io/Laravel_Forum_With_Vuejs/)
 
-<!--<p align="center"><img src="./_media/laravel_forum_with_vuejs.png" width="100%"></p>-->
+<p align="center"><img src="./_media/laravel_forum_with_vuejs.png" width="100%"></p>
 
 ## About this course
  
@@ -17,11 +17,15 @@ this is an introductory course to web development using Laravel and Vue js, it's
  - The next step is learning about Vue js and making a simple app in Vue js
  - After that we will make the front end of our project in a Vue js single page application 
 
-
 ## Requirements
 
  - Have a computer with Internet
  - Be ready to learn an insane amount of awesome stuff
  - Prepare to build real web apps!
  - Brace yourself for stupid jokes about my dog Rusty
+
+## Who this course is for:
+
+    This course is for developers and future developers who wants to learn about Laravel and Vue js, 
+    It's perfect for to learn today's web frameworks and learn the skills to make real websites and projects.
 

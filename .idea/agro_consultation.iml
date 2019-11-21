@@ -127,5 +127,6 @@
     <orderEntry type="library" name="index" level="application" />
     <orderEntry type="library" name="docsify-pagination" level="application" />
     <orderEntry type="library" name="disqus" level="application" />
+    <orderEntry type="library" name="zoom-image" level="application" />
   </component>
 </module>

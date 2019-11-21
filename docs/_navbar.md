@@ -1,4 +1,4 @@
 - Translations
   - [ :earth_americas: English](/)
-  - [ :dz: العربية](/ar/)
+  - [ :earth_africa: العربية](/ar/)
   
