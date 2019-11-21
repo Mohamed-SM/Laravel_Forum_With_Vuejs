@@ -7,10 +7,13 @@
   <meta name="description" content="A forum with laravel and Vue js using graphql ">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="https://unpkg.com/docsify/lib/themes/vue.css">
-  <script id="dsq-count-scr" src="//laravel-forum-with-vuejs.disqus.com/count.js" async></script>
+  <meta property="fb:app_id" content="974029972990342" />
+  <meta property="fb:admins" content="Med.Slimani93"/>
 </head>
 <body>
-  <div id="app"></div>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v5.0&appId=670051910150502&autoLogAppEvents=1"></script>
+<div id="app"></div>
   <script>
     window.$docsify = {
       coverpage: true,
@@ -23,6 +26,15 @@
       auto2top: true,
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md'
+      },
+      search: {
+        noData: {
+          '/': 'No results!'
+        },
+        paths: 'auto',
+        placeholder: {
+          '/': 'Search'
+        }
       },
     }
   </script>
