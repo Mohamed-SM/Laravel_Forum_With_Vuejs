@@ -26,6 +26,6 @@ this is an introductory course to web development using Laravel and Vue js, it's
 
 ## Who this course is for:
 
-    This course is for developers and future developers who wants to learn about Laravel and Vue js, 
-    It's perfect for to learn today's web frameworks and learn the skills to make real websites and projects.
+  This course is for developers and future developers who wants to learn about Laravel and Vue js, 
+  It's perfect for to learn today's web frameworks and learn the skills to make real websites and projects.
 
