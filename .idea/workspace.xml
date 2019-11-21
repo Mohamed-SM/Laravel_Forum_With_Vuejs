@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/agro_consultation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/agro_consultation.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sidebar.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -210,7 +209,7 @@
       <workItem from="1574299169141" duration="2153000" />
       <workItem from="1574333268025" duration="7810000" />
       <workItem from="1574347901340" duration="102000" />
-      <workItem from="1574348091471" duration="5010000" />
+      <workItem from="1574348091471" duration="6328000" />
     </task>
     <servers />
   </component>

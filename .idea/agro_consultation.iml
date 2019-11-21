@@ -125,5 +125,7 @@
     <orderEntry type="library" name="count" level="application" />
     <orderEntry type="library" name="search" level="application" />
     <orderEntry type="library" name="index" level="application" />
+    <orderEntry type="library" name="docsify-pagination" level="application" />
+    <orderEntry type="library" name="disqus" level="application" />
   </component>
 </module>
