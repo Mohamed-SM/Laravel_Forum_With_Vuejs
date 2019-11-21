@@ -37,5 +37,3 @@ laravel new forum
 ```
 > replace the word forum with the project name if you want a different name
 
-
-<div class="fb-comments" data-href="https://github.com/Mohamed-SM" data-width="" data-numposts="5"></div>
