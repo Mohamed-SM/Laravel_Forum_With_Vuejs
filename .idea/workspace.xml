@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ffef3b3c-9c21-4ac7-8a09-c0eb1397682b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sidebar.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Markdown" />
         <option value="JavaScript File" />
+        <option value="Markdown" />
       </list>
     </option>
   </component>
@@ -164,8 +163,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs/Section 1  Prerequisites" />
       <recent name="$PROJECT_DIR$/docs" />
+      <recent name="$PROJECT_DIR$/docs/Section 1  Prerequisites" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs/_media" />
@@ -205,7 +204,7 @@
       <workItem from="1574258252192" duration="2091000" />
       <workItem from="1574260419683" duration="27643000" />
       <workItem from="1574299169141" duration="2153000" />
-      <workItem from="1574333268025" duration="1891000" />
+      <workItem from="1574333268025" duration="3087000" />
     </task>
     <servers />
   </component>

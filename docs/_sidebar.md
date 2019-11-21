@@ -3,6 +3,7 @@
 - Introduction
     - [Introduction](/README.md)
     - [About Laravel (Official description)](/laravel_official_readme.md)
+    - [Get Stated](/get_started.md)
     
 - Prerequisites
     - [1 How laravel works](prerequisites/1-how-laravel-works.md)
