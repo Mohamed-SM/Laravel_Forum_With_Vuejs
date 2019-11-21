@@ -1,0 +1,21 @@
+{
+  "short_name": "Laravel tutorial",
+  "name": "Laravel Forum With Vue js",
+  "icons": [
+    {
+      "src": "/_media/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/_media/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://mohamed-sm.github.io/Laravel_Forum_With_Vuejs/",
+  "background_color": "#FFF",
+  "display": "standalone",
+  "scope": "/Laravel_Forum_With_Vuejs/",
+  "theme_color": "#FFF"
+}
