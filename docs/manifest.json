@@ -3,12 +3,12 @@
   "name": "Laravel Forum With Vue js",
   "icons": [
     {
-      "src": "/_media/icon-192.png",
+      "src": "./_media/icon-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/_media/icon-512.png",
+      "src": "./_media/icon-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
