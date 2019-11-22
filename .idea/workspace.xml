@@ -3,9 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="ffef3b3c-9c21-4ac7-8a09-c0eb1397682b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ar/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ar/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ar/get_started.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ar/laravel_official_readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sidebar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/routing/5-basic-routing-and-views.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/routing/5-basic-routing-and-views.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -159,21 +161,21 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/ar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/_media" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Markdown" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs/ar" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/docs/_media" />
-      <recent name="$PROJECT_DIR$/docs" />
-      <recent name="$PROJECT_DIR$/docs/.well-known" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$/docs/Section 1  Prerequisites" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/_media" />
+      <recent name="$PROJECT_DIR$/docs/ar" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/docs" />
+      <recent name="$PROJECT_DIR$/docs/.well-known" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -209,7 +211,9 @@
       <workItem from="1574299169141" duration="2153000" />
       <workItem from="1574333268025" duration="7810000" />
       <workItem from="1574347901340" duration="102000" />
-      <workItem from="1574348091471" duration="10059000" />
+      <workItem from="1574348091471" duration="10384000" />
+      <workItem from="1574427182823" duration="31000" />
+      <workItem from="1574456330251" duration="6775000" />
     </task>
     <servers />
   </component>
