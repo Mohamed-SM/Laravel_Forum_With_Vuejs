@@ -25,7 +25,7 @@ we get the result like this
 
 you can try to change the value in the URL and refresh the page you are going to see the name returned every time
 
-## sending the data to the view
+## Sending the data to the view
 
 if we do this 
 
@@ -93,7 +93,7 @@ and as we can see that fixed the problem
 
 ![](../_media/Screenshot%20from%202019-11-23%2000-45-26.png)
 
-## blade emplating engine
+## Blade templating engine
 
 how ever in laravel it's easy to do that using **blade**, as I said last time a special kind of treatment goes in 
 blade files, it's some kind of interpretation that happens, what i mean is blade is a templating engine, and it has
