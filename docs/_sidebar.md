@@ -13,4 +13,5 @@
     - [5 Basic Routing and Views](routing/5-basic-routing-and-views.md)
     - [6 Pass Request Data to Your Views](routing/6-pass-request-data-to-your-views.md)
     - [7 Routing Wildcards](routing/7-routing-wildcards.md)
+    - [8 Routing to Controllers](routing/8-routing-to-controllers.md)
 
