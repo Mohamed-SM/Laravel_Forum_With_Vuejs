@@ -25,3 +25,5 @@ Route::get('/test', function () {
         'name' => $name
     ]);
 });
+
+Route::get('/posts/{post}', 'PostController@show');
