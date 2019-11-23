@@ -9,6 +9,40 @@ So to do that we use [Composer](/prerequisites/2-install-php-mysql-and-composer?
 ```bash
 composer global require laravel/installer
 ```
+*output*
+```test
+
+Changed current directory to /home/yaya/.config/composer
+Using version ^2.3 for laravel/installer
+./composer.json has been created
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 14 installs, 0 updates, 0 removals
+  - Installing symfony/process (v4.4.0): Downloading (100%)         
+  - Installing symfony/polyfill-ctype (v1.12.0): Downloading (100%)         
+  - Installing symfony/filesystem (v4.4.0): Downloading (100%)         
+  - Installing psr/container (1.0.0): Downloading (100%)         
+  - Installing symfony/service-contracts (v2.0.0): Downloading (100%)         
+  - Installing symfony/polyfill-php73 (v1.12.0): Downloading (100%)         
+  - Installing symfony/polyfill-mbstring (v1.12.0): Downloading (100%)         
+  - Installing symfony/console (v4.4.0): Downloading (100%)         
+  - Installing ralouphie/getallheaders (3.0.3): Downloading (100%)         
+  - Installing psr/http-message (1.0.1): Downloading (100%)         
+  - Installing guzzlehttp/psr7 (1.6.1): Downloading (100%)         
+  - Installing guzzlehttp/promises (v1.3.1): Downloading (100%)         
+  - Installing guzzlehttp/guzzle (6.4.1): Downloading (100%)         
+  - Installing laravel/installer (v2.3.0): Downloading (100%)         
+symfony/service-contracts suggests installing symfony/service-implementation
+symfony/console suggests installing symfony/event-dispatcher
+symfony/console suggests installing symfony/lock
+symfony/console suggests installing psr/log (For using the console logger)
+guzzlehttp/psr7 suggests installing zendframework/zend-httphandlerrunner (Emit PSR-7 responses)
+guzzlehttp/guzzle suggests installing psr/log (Required for using the Log middleware)
+Writing lock file
+Generating autoload files
+
+```
+
 and to make it valuable from everywhere like we did with Composer we must modify the PATH variable this time to do this
 we need to edit the file `~/.bashrc ` buy this command
 
@@ -19,7 +53,7 @@ and add this line at the end of the file
 
 ```text
 #...
-export PATH=/home/moh/.config/composer/vendor/bin:$PATH
+export PATH=/home/$USER/.config/composer/vendor/bin:$PATH
 
 ```
 and to apply changes run the command
