@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffef3b3c-9c21-4ac7-8a09-c0eb1397682b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/_media/Screenshot from 2019-11-23 00-20-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_media/Screenshot from 2019-11-23 00-29-19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_media/Screenshot from 2019-11-23 00-32-22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_media/Screenshot from 2019-11-23 00-34-55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_media/Screenshot from 2019-11-23 00-40-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_media/Screenshot from 2019-11-23 00-45-26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_media/Screenshot from 2019-11-23 00-53-48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/routing/6-pass-request-data-to-your-views.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/moh.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/moh.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sidebar.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/routing/5-basic-routing-and-views.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/routing/5-basic-routing-and-views.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/test.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/test.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
@@ -213,7 +223,7 @@
       <workItem from="1574347901340" duration="102000" />
       <workItem from="1574348091471" duration="10384000" />
       <workItem from="1574427182823" duration="31000" />
-      <workItem from="1574456330251" duration="11581000" />
+      <workItem from="1574456330251" duration="11824000" />
     </task>
     <servers />
   </component>
