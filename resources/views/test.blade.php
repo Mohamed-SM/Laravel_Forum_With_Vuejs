@@ -8,6 +8,7 @@
     <title>Test View</title>
 </head>
 <body>
-    Test View
+    <h1>Test View</h1>
+    <p><strong>name: </strong>{{ $name }}</p>
 </body>
 </html>

@@ -87,7 +87,7 @@ and after we refresh the page we will see this
 
 ![](../_media/Screenshot%20from%202019-11-22%2023-04-44.png) 
 
-## creating a new route
+## Creating a new route
 
 back to the `web.php` file let's create a new route. add this at the end of the file
 
@@ -106,7 +106,7 @@ if you got to any other route like http://127.0.0.1:8000/non_existing_route we w
 
 ![](../_media/Screenshot%20from%202019-11-22%2023-13-22.png) 
 
-## routes returns
+## Routes returns
 
 back to the `web.php` file let's return a **String** instead of a view
 
@@ -135,7 +135,7 @@ we get
 laravel has automatically converted it to JSON, so if we look at the headers we see `Content-Type	application/json` has
 been returned this is really useful wen we start building the **APIs** later
 
-## adding a view
+## Adding a view
 new let's add a `resources/views/` in there views folder, let's call it test.blade.php,and let's return it in a 
 new route called test
 so in the `web.php` file add
@@ -185,7 +185,7 @@ and when you refresh the page in the browser you will see
 
 [](../_media/Screenshot%20from%202019-11-22%2023-45-32.png)
 
-### recap
+### Recap
 the routes are registered in the **web.php** inside the **routes** folder file and the views are located in the 
 **resources/views/** folder and the end with **.blade.php** and they contain the HTML code portion of the website
 

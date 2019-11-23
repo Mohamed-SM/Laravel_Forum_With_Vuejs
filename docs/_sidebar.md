@@ -11,4 +11,5 @@
     - 4 cloning the startup project
 - Routing
     - [5 Basic Routing and Views](routing/5-basic-routing-and-views.md)
+    - [6 Pass Request Data to Your Views](routing/6-pass-request-data-to-your-views.md)
 
