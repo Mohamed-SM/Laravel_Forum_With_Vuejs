@@ -14,4 +14,5 @@
     - [6 Pass Request Data to Your Views](routing/6-pass-request-data-to-your-views.md)
     - [7 Routing Wildcards](routing/7-routing-wildcards.md)
     - [8 Routing to Controllers](routing/8-routing-to-controllers.md)
-
+- Database Access
+    - [9 Setup A Database Connection](database_access/9-setup-a-database-connection.md)
