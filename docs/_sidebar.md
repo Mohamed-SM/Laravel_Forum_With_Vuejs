@@ -17,3 +17,4 @@
 - Database Access
     - [9 Setup A Database Connection](database_access/9-setup-a-database-connection.md)
     - [10 Eloquent](database_access/10-eloquent.md)
+    - [11 Migrations](database_access/11-migrations.md)
