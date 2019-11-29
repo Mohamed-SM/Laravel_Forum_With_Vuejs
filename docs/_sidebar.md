@@ -18,3 +18,4 @@
     - [9 Setup A Database Connection](database_access/9-setup-a-database-connection.md)
     - [10 Eloquent](database_access/10-eloquent.md)
     - [11 Migrations](database_access/11-migrations.md)
+    - [12 A Single Command to generate a Model Controller and Migration](database_access/12-generate-a-model-controller-and-migration-in-a-single-command.md)
